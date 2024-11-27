@@ -1,10 +1,6 @@
-Here's a **README** template for your GitHub repository based on your "Games Co. Sales Analysis" project:
-
----
-
 # 📊 Games Co. Sales Analysis
 
-A data analysis project by **Ashwani Sherawat** focusing on the gaming industry's sales data, trends, and insights. This analysis aims to understand customer behavior, regional preferences, and market dynamics to inform strategic decisions in the gaming sector.
+A data analysis project focusing on the gaming industry's sales data, trends, and insights. This analysis aims to understand customer behavior, regional preferences, and market dynamics to inform strategic decisions in the gaming sector.
 
 ---
 
